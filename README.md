@@ -1,4 +1,4 @@
-# get_next_line
+# 42-get_next_line
 
 The aim of this project is to write a function which returns a line read from a file descriptor, without the newline.
 
